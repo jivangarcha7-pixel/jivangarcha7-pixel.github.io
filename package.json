@@ -1,5 +1,1 @@
-{
-  "name": "Garcha Portfolio",
-  "description": "A high-impact photography portfolio inspired by Robinhood's clean and bold aesthetic.",
-  "requestFramePermissions": []
-}
+{"name": "garcha-portfolio", "version": "1.0.0", "description": "A portfolio project", "scripts": {"build": "npm run build"}, "author": "Garcha", "license": "MIT"}
